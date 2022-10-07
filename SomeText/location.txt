@@ -1,0 +1,43 @@
+first
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117514.6221901891!2d72.4886788961889!3d23.011581196054593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e858e2730c051%3A0x90d04a0bc8653311!2sStarbucks%20Coffee%20Vastrapur!5e0!3m2!1sen!2sin!4v1665149117692!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+second
+   
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117514.6221901891!2d72.4886788961889!3d23.011581196054593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e856b095fb985%3A0x253f51ac5e5f6596!2sStarbucks%20Coffee!5e0!3m2!1sen!2sin!4v1665149151796!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+
+
+
+therd
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117496.88547546565!2d72.4407322582031!3d23.03193409999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b166716889f%3A0x5374489736706eab!2sStarbucks%20Coffee%20-%20Rajyash%20Uniza%2C%20Bodakdev!5e0!3m2!1sen!2sin!4v1665156640287!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+
+forth
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117514.72854711264!2d72.44057125820315!3d23.01145910000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9ba0f0cff3a3%3A0x60f5ad1bc3391f60!2sStarbucks%20Coffee!5e0!3m2!1sen!2sin!4v1665156669922!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+
+five 
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117460.69505288661!2d72.54880185820309!3d23.07341!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e814d32e5d3ef%3A0x95d030d8246d120b!2sStarbucks!5e0!3m2!1sen!2sin!4v1665156697014!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+six 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117486.80594494037!2d72.41206805820309!3d23.043492800000013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2360ae184f%3A0xdffb55c49620fb1a!2sSTARBUCKS%20COFFEE%20SINDHUBHAVAN!5e0!3m2!1sen!2sin!4v1665156723173!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+seven
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117513.92268640162!2d72.60445535820313!3d23.0123842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e870a6a65fa27%3A0x72da659d07ca87d0!2sStarbucks%20coffee!5e0!3m2!1sen!2sin!4v1665156744471!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
